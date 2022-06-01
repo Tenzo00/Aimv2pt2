@@ -1,4 +1,4 @@
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Tenzo00/Aimv2/main/Legit.v1"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Tenzo00/Aimv2.1/main/Legitness"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
